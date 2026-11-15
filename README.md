@@ -24,7 +24,7 @@ Automated API tests for [Restful-Booker](https://restful-booker.herokuapp.com), 
 ## How to Run
 
 1. Install [Postman](https://www.postman.com/downloads/) (free).
-2. Download the collection file from this repo (`.json`).
+2. Download the collection file from this repo [API Testing of restful booker.postman_collection.json](API%20Testing%20of%20restful%20booker.postman_collection.json)
 3. In Postman, click **Import** and select the file.
 4. Right-click the collection, choose **Run collection**, then click **Run**.
 
